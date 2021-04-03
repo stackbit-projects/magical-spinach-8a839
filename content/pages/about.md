@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: This is a short page about us and our work.
+subtitle: "“If you really want to\_hear about it, the first thing you’ll probably want to know is where I was born, and what my lousy childhood was like, and how my parents were occupied and all before they had me, and all that David Copperfield kind of crap, but I don’t feel like going into it, if you want to know the truth.”J.D. Salinger, The Catcher in the Rye"
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
