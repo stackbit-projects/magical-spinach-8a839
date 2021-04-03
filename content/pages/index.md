@@ -14,10 +14,7 @@ sections:
       favorites for ways to keep little kids occupied. Most of these arts,
       crafts, games and activities only require items that you probably already
       have lying around. Best of luck making it to bedtime.
-    actions:
-      - label: Let's talk
-        url: /contact
-        style: button
+    actions: []
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
