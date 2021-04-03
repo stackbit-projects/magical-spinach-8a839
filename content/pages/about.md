@@ -33,5 +33,4 @@ layout: page
 ---
 No, but really…
 
-
-I have 2 young children who are sparks of light and for whom the site is named.  This website is a creative outlet from my day job and is meant to help other busy parents find ways to keep their kids educated and entertained
+I have 2 young children who are sparks of light and for whom the site is named.  This website is a creative outlet from my day job and is meant to help other busy parents find ways to keep their kids educated and entertained.
