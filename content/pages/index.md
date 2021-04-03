@@ -5,9 +5,15 @@ sections:
   - section_id: hero
     type: section_hero
     title: “What are we going to do today?”
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      My 4 year old has asked me that exact question about 8,392,451,340 times
+      since March 2020.
+
+
+      After a year of quarantine-induced time at home, I’ve compiled some fan
+      favorites for ways to keep little kids occupied. Most of these arts,
+      crafts, games and activities only require items that you probably already
+      have lying around. Best of luck making it to bedtime.
     actions:
       - label: Let's talk
         url: /contact
