@@ -84,35 +84,6 @@ sections:
       - label: View Blog
         url: blog
         style: button
-  - title: Picture
-    section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
-    type: section_hero
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
